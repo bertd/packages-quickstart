@@ -16,4 +16,7 @@
     "url": "https://github.com/bertd/packages-quickstart/issues"
   },
   "homepage": "https://github.com/bertd/packages-quickstart#readme"
+  "publishConfig": {
+    "@bertd:registry": "https://npm.pkg.github.com"
+  }
 }
